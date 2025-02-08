@@ -1,0 +1,14 @@
+.home{
+    background-image: url(./.././../assets/EG-en-20250203-TRIFECTA-perspective_20afdd37-a0fb-4788-9b86-1dafe3afd147_large.jpg);
+    background-position: center;
+    background-size: cover;
+    min-height: 100vh;
+}
+.layer{
+    width: 100%;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.644);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
